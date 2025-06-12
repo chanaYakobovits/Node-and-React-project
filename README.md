@@ -28,14 +28,16 @@
 
 ### 1. שכפול הרפוזיטורי:
 ```bash
-git clone 
-cd YourRepoName
+git clone https://github.com/chanaYakobovits/Node-and-React-project.git
+cd Node-and-React-project
 cd server
 npm install
 npm start
 cd ../client
 npm install
 npm start
+
+
 הפרויקט פותח במסגרת לימודי הנדסת תוכנה במכללת מה"ט
 מפתחת: חנה יעקובוביץ
 
