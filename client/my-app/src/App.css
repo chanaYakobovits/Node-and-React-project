@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.page{
+  display:grid;
+  grid-template-rows: 50px 1fr 30px;
+  min-height: 100vh;
+}
+/* header,footer{
+  background-color: black;
+  color: white;
+  display: grid;
+  place-content: center;
+} */
